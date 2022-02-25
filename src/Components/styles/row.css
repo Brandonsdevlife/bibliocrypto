@@ -1,0 +1,18 @@
+.grid{
+    margin: auto;
+    justify-content: space-between;
+    display: grid | inline-grid;
+    
+
+}
+
+.grid__images{
+    align-items: center;
+    padding: 7px 14px;
+    max-width: 100%;
+    height: 10rem;
+}
+
+*{
+    flex-shrink: 0;
+}
